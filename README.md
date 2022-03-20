@@ -1,1 +1,2 @@
 # Dataset_amplification
+用于标注前扩增图像数据集，每张图像可以扩增17倍
